@@ -1,5 +1,6 @@
 # Create a class MyList that has an instance variable @list
 require_relative 'MyEnumerable'
+
 class MyList
 include MyEnumerable
     def initialize(items)

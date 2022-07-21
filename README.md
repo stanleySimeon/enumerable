@@ -1,8 +1,15 @@
-# Getting Started
+# Enumerable Project
+ In this project we applied our learning skills about how to use a module inside a class,
+ - using:
+ `all?`
+ `any?`
+ `filter?`
 
-`INSTALL`
 
- Use `git clone https://github.com/stanleySimeon/enumerable.git` to install it in your local machine
+# Installation
+
+ Use `git clone https://github.com/stanleySimeon/enumerable.git` 
+ to install the project in your local machine
 
 *Authors* 
 
@@ -27,5 +34,3 @@ Feel free to check the [issues page](../../issues/)
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## …
