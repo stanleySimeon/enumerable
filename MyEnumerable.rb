@@ -1,4 +1,4 @@
-# Create a module MyEnumerable that implements the following methods.
+d# Create a module MyEnumerable that implements the following methods.
 module MyEnumerable
     def all?
         @list.each do |i|
